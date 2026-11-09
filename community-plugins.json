@@ -70999,5 +70999,12 @@
     "author": "Lak",
     "description": "随手记录卡片笔记并保留多行排版，按月存入 Markdown 文件，支持标签联想与父子标签聚合. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "r529/collis"
+  },
+  {
+    "id": "draft-focus",
+    "name": "Draft Focus",
+    "author": "Rjbanti420",
+    "description": "Distraction-free drafting: hides the Obsidian UI and blocks backspace, delete and undo so you keep writing instead of editing.",
+    "repo": "Rjbanti420/obsidian-draft-focus"
   }
 ]
